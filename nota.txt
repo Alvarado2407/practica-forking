@@ -1,0 +1,2 @@
+Ahora estoy haciendo una nota para mostrar cambios en una nueva rama creada por mi.
+Estoy haciendo mi trabajo en un repositorio independiente sin tocar el original.
